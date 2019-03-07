@@ -7,6 +7,7 @@ Inserting Into the hastable can be done with:
 Accessing the hastable can be done with:
 `HashTableGet(<key>, <hashtable pointer>);`
 
+<br>
 EXAMPLE USAGE:
 
 ```c
